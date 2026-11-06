@@ -1,6 +1,8 @@
-# [Título de tu proyecto]
+# Soledad no deseada en personas mayores de Jerez de la Frontera: factores de riesgo, redes de apoyo e intervención desde el Trabajo Social.
 
-Soledad no deseada en personas mayores de Jerez de la Frontera: factores de riesgo, redes de apoyo e intervención desde el Trabajo Social.
+Proyecto de la asignatura **Informática para el Trabajo Social**, Universidad de Cádiz.
+
+
 
 
 
